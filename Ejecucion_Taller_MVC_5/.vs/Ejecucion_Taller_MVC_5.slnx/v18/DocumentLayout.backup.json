@@ -3,8 +3,7 @@
   "WorkspaceRootPath": "C:\\MIUMG 2026\\S2\\TERMINUS\\Taller_MVC_5\\Ejecucion_Taller_MVC_5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{012024D8-65E9-4298-9859-50F7F881FBF9}|Ejecucion_Taller_MVC_5\\Ejecucion_Taller_MVC_5.csproj|c:\\miumg 2026\\s2\\terminus\\taller_mvc_5\\ejecucion_taller_mvc_5\\ejecucion_taller_mvc_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{012024D8-65E9-4298-9859-50F7F881FBF9}|Ejecucion_Taller_MVC_5\\Ejecucion_Taller_MVC_5.csproj|solutionrelative:ejecucion_taller_mvc_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\MIUMG 2026\\S2\\TERMINUS\\Taller_MVC_5\\Taller_MVC_5\\CapaControlador_MVC5\\Controlador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -59,14 +58,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\MIUMG 2026\\S2\\TERMINUS\\Taller_MVC_5\\Ejecucion_Taller_MVC_5\\Ejecucion_Taller_MVC_5\\Program.cs",
-              "RelativeDocumentMoniker": "Ejecucion_Taller_MVC_5\\Program.cs",
-              "ToolTip": "C:\\MIUMG 2026\\S2\\TERMINUS\\Taller_MVC_5\\Ejecucion_Taller_MVC_5\\Ejecucion_Taller_MVC_5\\Program.cs",
-              "RelativeToolTip": "Ejecucion_Taller_MVC_5\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA7AAAAAAAAAA==",
+              "Title": "Controlador.cs",
+              "DocumentMoniker": "C:\\MIUMG 2026\\S2\\TERMINUS\\Taller_MVC_5\\Taller_MVC_5\\CapaControlador_MVC5\\Controlador.cs",
+              "RelativeDocumentMoniker": "..\\Taller_MVC_5\\CapaControlador_MVC5\\Controlador.cs",
+              "ToolTip": "C:\\MIUMG 2026\\S2\\TERMINUS\\Taller_MVC_5\\Taller_MVC_5\\CapaControlador_MVC5\\Controlador.cs",
+              "RelativeToolTip": "..\\Taller_MVC_5\\CapaControlador_MVC5\\Controlador.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-03T03:56:47.665Z",
+              "WhenOpened": "2026-09-03T14:02:45.132Z",
               "EditorCaption": ""
             }
           ]
