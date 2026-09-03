@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="CapaControlador_MVC5/CapaControlador_MVC5.csproj" Id="2deb4aad-e2fb-48e3-a6b8-8a21edbe17b2" />
   <Project Path="CapaModelo_MVC5/CapaModelo_MVC5.csproj" Id="601a5dcd-1976-4b41-b14d-6571a9be849c" />
+  <Project Path="CapaVista_MVC5/CapaVista_MVC5.csproj" Id="5deafd3d-e155-48ba-8326-329c849f9a94" />
 </Solution>

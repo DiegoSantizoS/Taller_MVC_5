@@ -1,0 +1,16 @@
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_5\Ejecucion_Taller_MVC_5\Ejecucion_Taller_MVC_5\bin\Debug\Ejecucion_Taller_MVC_5.exe.config
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_5\Ejecucion_Taller_MVC_5\Ejecucion_Taller_MVC_5\bin\Debug\Ejecucion_Taller_MVC_5.exe
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_5\Ejecucion_Taller_MVC_5\Ejecucion_Taller_MVC_5\bin\Debug\Ejecucion_Taller_MVC_5.pdb
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_5\Ejecucion_Taller_MVC_5\Ejecucion_Taller_MVC_5\bin\Debug\CapaVista_MVC5.dll
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_5\Ejecucion_Taller_MVC_5\Ejecucion_Taller_MVC_5\bin\Debug\CapaControlador_MVC5.dll
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_5\Ejecucion_Taller_MVC_5\Ejecucion_Taller_MVC_5\bin\Debug\CapaModelo_MVC5.dll
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_5\Ejecucion_Taller_MVC_5\Ejecucion_Taller_MVC_5\bin\Debug\CapaVista_MVC5.pdb
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_5\Ejecucion_Taller_MVC_5\Ejecucion_Taller_MVC_5\bin\Debug\CapaControlador_MVC5.pdb
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_5\Ejecucion_Taller_MVC_5\Ejecucion_Taller_MVC_5\bin\Debug\CapaModelo_MVC5.pdb
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_5\Ejecucion_Taller_MVC_5\Ejecucion_Taller_MVC_5\obj\Debug\Ejecucion_Taller_MVC_5.csproj.AssemblyReference.cache
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_5\Ejecucion_Taller_MVC_5\Ejecucion_Taller_MVC_5\obj\Debug\Ejecucion_Taller_MVC_5.Properties.Resources.resources
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_5\Ejecucion_Taller_MVC_5\Ejecucion_Taller_MVC_5\obj\Debug\Ejecucion_Taller_MVC_5.csproj.GenerateResource.cache
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_5\Ejecucion_Taller_MVC_5\Ejecucion_Taller_MVC_5\obj\Debug\Ejecucion_Taller_MVC_5.csproj.CoreCompileInputs.cache
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_5\Ejecucion_Taller_MVC_5\Ejecucion_Taller_MVC_5\obj\Debug\Ejecucio.FB1CFBAD.Up2Date
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_5\Ejecucion_Taller_MVC_5\Ejecucion_Taller_MVC_5\obj\Debug\Ejecucion_Taller_MVC_5.exe
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_5\Ejecucion_Taller_MVC_5\Ejecucion_Taller_MVC_5\obj\Debug\Ejecucion_Taller_MVC_5.pdb
