@@ -1,0 +1,13 @@
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_5\Taller_MVC_5\CapaVista_MVC5\bin\Debug\CapaVista_MVC5.dll
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_5\Taller_MVC_5\CapaVista_MVC5\bin\Debug\CapaVista_MVC5.pdb
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_5\Taller_MVC_5\CapaVista_MVC5\obj\Debug\CapaVista_MVC5.csproj.AssemblyReference.cache
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_5\Taller_MVC_5\CapaVista_MVC5\obj\Debug\CapaVista_MVC5.csproj.CoreCompileInputs.cache
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_5\Taller_MVC_5\CapaVista_MVC5\obj\Debug\CapaVista_MVC5.dll
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_5\Taller_MVC_5\CapaVista_MVC5\obj\Debug\CapaVista_MVC5.pdb
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_5\Taller_MVC_5\CapaVista_MVC5\obj\Debug\CapaVista_MVC5.frmPrincipal.resources
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_5\Taller_MVC_5\CapaVista_MVC5\obj\Debug\CapaVista_MVC5.csproj.GenerateResource.cache
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_5\Taller_MVC_5\CapaVista_MVC5\bin\Debug\CapaControlador_MVC5.dll
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_5\Taller_MVC_5\CapaVista_MVC5\bin\Debug\CapaModelo_MVC5.dll
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_5\Taller_MVC_5\CapaVista_MVC5\bin\Debug\CapaControlador_MVC5.pdb
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_5\Taller_MVC_5\CapaVista_MVC5\bin\Debug\CapaModelo_MVC5.pdb
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_5\Taller_MVC_5\CapaVista_MVC5\obj\Debug\CapaVist.0EDA158A.Up2Date

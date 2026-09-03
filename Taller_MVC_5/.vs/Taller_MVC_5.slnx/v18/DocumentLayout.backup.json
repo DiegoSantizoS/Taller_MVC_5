@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\MIUMG 2026\\S2\\TERMINUS\\Taller_MVC_5\\Taller_MVC_5\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DEAFD3D-E155-48BA-8326-329C849F9A94}|CapaVista_MVC5\\CapaVista_MVC5.csproj|c:\\miumg 2026\\s2\\terminus\\taller_mvc_5\\taller_mvc_5\\capavista_mvc5\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DEAFD3D-E155-48BA-8326-329C849F9A94}|CapaVista_MVC5\\CapaVista_MVC5.csproj|solutionrelative:capavista_mvc5\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DEAFD3D-E155-48BA-8326-329C849F9A94}|CapaVista_MVC5\\CapaVista_MVC5.csproj|c:\\miumg 2026\\s2\\terminus\\taller_mvc_5\\taller_mvc_5\\capavista_mvc5\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DEAFD3D-E155-48BA-8326-329C849F9A94}|CapaVista_MVC5\\CapaVista_MVC5.csproj|solutionrelative:capavista_mvc5\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,6 +59,31 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmPrincipal.cs",
+              "DocumentMoniker": "C:\\MIUMG 2026\\S2\\TERMINUS\\Taller_MVC_5\\Taller_MVC_5\\CapaVista_MVC5\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "CapaVista_MVC5\\frmPrincipal.cs",
+              "ToolTip": "C:\\MIUMG 2026\\S2\\TERMINUS\\Taller_MVC_5\\Taller_MVC_5\\CapaVista_MVC5\\frmPrincipal.cs",
+              "RelativeToolTip": "CapaVista_MVC5\\frmPrincipal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T03:55:43.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\MIUMG 2026\\S2\\TERMINUS\\Taller_MVC_5\\Taller_MVC_5\\CapaVista_MVC5\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "CapaVista_MVC5\\frmPrincipal.cs",
+              "ToolTip": "C:\\MIUMG 2026\\S2\\TERMINUS\\Taller_MVC_5\\Taller_MVC_5\\CapaVista_MVC5\\frmPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaVista_MVC5\\frmPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T03:52:02.373Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }
