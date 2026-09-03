@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\MIUMG 2026\\S2\\TERMINUS\\Taller_MVC_5\\Taller_MVC_5\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{30EC9B85-3339-4091-8C9A-4C321803735B}|Taller_MVC_5\\Taller_MVC_5.csproj|c:\\miumg 2026\\s2\\terminus\\taller_mvc_5\\taller_mvc_5\\taller_mvc_5\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30EC9B85-3339-4091-8C9A-4C321803735B}|Taller_MVC_5\\Taller_MVC_5.csproj|solutionrelative:taller_mvc_5\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -55,19 +50,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\MIUMG 2026\\S2\\TERMINUS\\Taller_MVC_5\\Taller_MVC_5\\Taller_MVC_5\\Class1.cs",
-              "RelativeDocumentMoniker": "Taller_MVC_5\\Class1.cs",
-              "ToolTip": "C:\\MIUMG 2026\\S2\\TERMINUS\\Taller_MVC_5\\Taller_MVC_5\\Taller_MVC_5\\Class1.cs",
-              "RelativeToolTip": "Taller_MVC_5\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-03T03:33:09.495Z",
-              "EditorCaption": ""
             }
           ]
         }
